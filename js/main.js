@@ -1,10 +1,13 @@
 
-function ajax (url)
+function aiaqsi (url)
 {
-    return new Promise(function(mogvareba, uaryofa)
+    new Promise(function(mogvareba, uaryofa)
     {
         var xhr = new XMLHttpRequest();
             xhr.open("GET", url, false);
+            xhr.send();
+            xhr.status();
+            xhr.statusText();
             xhr.onload = function (response) {
                 mogvareba(xhr.response);
             }
@@ -22,6 +25,7 @@ function ajax (url)
 
 
 
-ajax("https://jsonplaceholder.typicode.com/posts")
-.then(function(data){console.log(data)})
-.catch(function(shecd){console.log(shecd)})
+aiaqsi("/js/employee.json", 
+function(data){ console.log(data) }, 
+function (shecdoma){ console.log(shecdoma) }
+)
