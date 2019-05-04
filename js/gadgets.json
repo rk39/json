@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "Apple TV 32GB",
+        "color": "black",
+        "price": "49.99",
+        "category": "TV",
+        "image": "/img/apple-tv-32-gb.png"
+    },
+    {
+        "id": "2",
+        "name": "Pebble Time",
+        "color": "red",
+        "price": "29.99",
+        "category": "Watch",
+        "image": "/img/pebble-time.png"
+    },
+    {
+        "id": "3",
+        "name": "Zendure 4-Port USB",
+        "color": "white",
+        "price": "49.99",
+        "category": "usb gadget",
+        "image": "/img/zendure-4-port-usb.png"
+    },
+    {
+        "id": "4",
+        "name": "Withings Smart Body Analyzer ws-50",
+        "color": "silver",
+        "price": "39.99",
+        "category": "fit",
+        "image": ""
+    },
+    {
+        "id": "5",
+        "name": "JBL Charge 2+",
+        "color": "black",
+        "price": "19.99",
+        "category": "usb gadget",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "name": "Ollo Clip New",
+        "color": "silver",
+        "price": "19.99",
+        "category": "fit",
+        "image": ""
+    },
+    {
+        "id": "7",
+        "name": "Fitbit Charge HR Heart Rate and Activity Tracker",
+        "color": "black",
+        "price": "19.99",
+        "category": "fit",
+        "image": ""
+    },
+    {
+        "id": "8",
+        "name": "Apple Watch Sport 38mm Silver Aluminum Case",
+        "color": "silver",
+        "price": "49.99",
+        "category": "watch",
+        "image": ""
+    },
+    {
+        "id": "9",
+        "name": "Bose SoundLink On-Ear Headphones",
+        "color": "white",
+        "price": "119.99",
+        "category": "usb gadget",
+        "image": ""
+    },
+    {
+        "id": "10",
+        "name": "Sonos Play-1 Wireless HiFi System",
+        "color": "silver",
+        "price": "99.99",
+        "category": "usb gadget",
+        "image": ""
+    },
+    {
+        "id": "11",
+        "name": "Nest Learning Thermostat, 3rd Generation",
+        "color": "black",
+        "price": "49.99",
+        "category": "fit",
+        "image": ""
+    }
+]
